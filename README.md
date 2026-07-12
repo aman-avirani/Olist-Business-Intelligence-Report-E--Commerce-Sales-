@@ -49,6 +49,10 @@ Power BI · Power Query (M) · DAX
 ## Data Modeling Notes
 - Star schema with a dedicated Date dimension table, marked and related via 
   active/inactive relationships (order purchase, delivery, and due dates)
+  
 - Handled known dataset quirks: role-playing date dimensions, split-payment 
   transactions (multiple rows per order_id by design), category name 
   translation via merge, geolocation many-to-many resolved via grouping
+
+  # Screenshot of how KPI Dashboard Looks:
+  https://github.com/aman-avirani/Olist-Business-Intelligence-Report-E--Commerce-Sales-/blob/ab-0017/Olist_BI_Report.png
