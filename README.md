@@ -21,7 +21,7 @@ Power BI · Power Query (M) · DAX
 4. **Logistics & Fulfillment** — SLA adherence by state, delivery performance
 5. **Seller / Marketplace Health** — Seller concentration, leaderboard, growth
 
-* SLA — Service Level Agreement
+*SLA — Service Level Agreement
   A promised standard of performance — in this context, the delivery timeline a company commits
   
 **CSAT — Customer Satisfaction (Score)
